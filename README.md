@@ -37,4 +37,4 @@ Os dados cadastrados são persistentes e permanecerão após o encerramento do p
 
 Utilize a opção “Apagar Arquivo” com cuidado, pois todos os dados serão removidos permanentemente.
 
- - Desenvolvido como uma aplicação de aprendizado em linguagem C.
+ - Desenvolvido em linguagem C como parte de um projeto de Lógica de Programação.
