@@ -1,4 +1,4 @@
-# Projeto de Cadastro de Cursos Profissionalizantes
+# Projeto Cadastro de Cursos Profissionalizantes
 
 # Descrição
 
